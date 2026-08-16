@@ -1,180 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sumit Pal</h1>
+<h1 align="center">👋 Hi, I'm Sumit Pal</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">
+  💻 Full Stack Developer | 🧠 C++ & DSA | 🚀 Building Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumit2344&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumit2344&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sumit2344">
+    <img src="https://img.shields.io/github/followers/sumit2344?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/sumit2344?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sumit2344?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Healthcare Management System**
-- 🌱 I’m currently learning **React.js, Node.js and Express.js**
-- 💻 Interested in **Full Stack Development**
-- 🧩 I regularly practice **DSA and Competitive Programming**
-- 📫 How to reach me: **sumitpal24august@gmail.com**
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/sumit-pal-9406a72b7" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-<a href="https://www.codechef.com/users/sumit-pal-9406a72b7" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef" alt="CodeChef" width="40" height="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/sumitpal24august" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" height="40"/>
-</a>
-
-<a href="https://leetcode.com/0mmvthcaes" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/sumitpal270mf" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksForGeeks" width="40" height="40"/>
-</a>
-
-</p>
+- 👨‍💻 I'm a **Full Stack Developer** passionate about building modern web applications.
+- 🎓 Computer Science & Engineering Student.
+- 🔭 Currently working on **Healthcare Management System**.
+- 🌱 Currently learning **React.js, Node.js & Express.js**.
+- 🧠 Practicing **Data Structures & Algorithms using C++**.
+- 💡 Interested in **Full Stack Development & Problem Solving**.
+- 📫 Email: **sumitpal24august@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="45" height="45"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="45" height="45"/>
-</a>
-
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" height="45" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python"/>
 </p>
 
-### 🌐 Frontend Development
+### 🎨 Frontend Development
 
 <p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="45" height="45"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="45" height="45"/>
-</a>
-
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React.js"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="45" height="45"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="45" height="45"/>
-</a>
-
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express" width="45" height="45" alt="Express.js"/>
 </p>
 
 ### 🗄️ Database
 
 <p align="left">
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="45" height="45"/>
-</a>
-
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" height="45" alt="MongoDB"/>
 </p>
 
 ### 🔧 Tools
 
 <p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="45" height="45"/>
-</a>
-
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🏥 Featured Project
 
-### 🏥 Healthcare Management System
+### Healthcare Management System
 
-A full-stack healthcare management system designed to manage patients, doctors, appointments and other hospital-related operations.
+A full-stack healthcare management system designed to simplify and manage hospital operations.
 
-**Tech Stack:**
+### ✨ Features
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+- 👨‍⚕️ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 📅 Appointment Management
+- 🔐 User Authentication
+- 📊 Healthcare Data Management
 
----
+### 🧰 Technologies Used
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit2344&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2344&layout=compact&locale=en" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sumit2344" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=sumit2344&theme=flat&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+```text
+Frontend  → React.js
+Backend   → Node.js + Express.js
+Database  → MongoDB
