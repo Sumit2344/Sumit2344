@@ -73,6 +73,34 @@
 
 ---
 
+## 🧠 Problem Solving Platforms
+
+<p align="center">
+  <i>Practicing Data Structures, Algorithms & Competitive Programming</i>
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/0mmvthcaes">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/sumit-pal-9406a72b7">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.hackerrank.com/sumitpal24august">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/sumitpal270mf">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</p>
+
+---
+
 ## 🏥 Featured Project
 
 ### Healthcare Management System
