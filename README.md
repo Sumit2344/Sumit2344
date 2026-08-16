@@ -38,97 +38,48 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/c/A8B9CC"
-width="45"
-height="45"
-alt="C"/>
-
-<img src="https://cdn.simpleicons.org/cplusplus/00599C"
-width="45"
-height="45"
-alt="C++"/>
-
-<img src="https://cdn.simpleicons.org/python/3776AB"
-width="45"
-height="45"
-alt="Python"/>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" height="45" alt="C"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="C++"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python"/>
 </p>
 
 ### 🎨 Frontend Development
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/html5/E34F26"
-width="45"
-height="45"
-alt="HTML5"/>
-
-<img src="https://cdn.simpleicons.org/css/1572B6"
-width="45"
-height="45"
-alt="CSS3"/>
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E"
-width="45"
-height="45"
-alt="JavaScript"/>
-
-<img src="https://cdn.simpleicons.org/react/61DAFB"
-width="45"
-height="45"
-alt="React.js"/>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React.js"/>
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933"
-width="45"
-height="45"
-alt="Node.js"/>
-
-<img src="https://cdn.simpleicons.org/express"
-width="45"
-height="45"
-alt="Express.js"/>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" height="45" alt="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express" width="45" height="45" alt="Express.js"/>
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248"
-width="45"
-height="45"
-alt="MongoDB"/>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" height="45" alt="MongoDB"/>
 </p>
 
 ### 🔧 Tools
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/git/F05032"
-width="45"
-height="45"
-alt="Git"/>
-
-<img src="https://cdn.simpleicons.org/github/181717"
-width="45"
-height="45"
-alt="GitHub"/>
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37"
-width="45"
-height="45"
-alt="Postman"/>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
