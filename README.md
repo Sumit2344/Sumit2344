@@ -1,26 +1,151 @@
-<h1 align="center">Hi 👋, I'm sumitpal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sumit Pal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit2344&label=Profile%20views&color=0e75b6&style=flat" alt="sumit2344" /> </p>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit2344" alt="sumit2344" /></a> </p>
-
-- 🔭 I’m currently working on **Healthcare Management System**
-
-- 🌱 I’m currently learning **React JS,Node JS,**
-
-- 📫 How to reach me **sumitpal24augustgmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumit-pal-9406a72b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-pal-9406a72b7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumit-pal-9406a72b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit-pal-9406a72b7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumitpal24august" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitpal24august" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/0mmvthcaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0mmvthcaes" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitpal270mf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitpal270mf" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumit2344&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit2344&show_icons=true&locale=en&layout=compact" alt="sumit2344" /></p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Healthcare Management System**
+- 🌱 I’m currently learning **React.js, Node.js and Express.js**
+- 💻 Interested in **Full Stack Development**
+- 🧩 I regularly practice **DSA and Competitive Programming**
+- 📫 How to reach me: **sumitpal24august@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sumit-pal-9406a72b7" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://www.codechef.com/users/sumit-pal-9406a72b7" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="40" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/sumitpal24august" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/0mmvthcaes" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/sumitpal270mf" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksForGeeks" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit2344&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit2344&layout=compact&locale=en" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit2344&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sumit2344" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+#### 🏥 Healthcare Management System
+
+A full-stack healthcare management system designed to manage patients, doctors, appointments and other hospital-related operations.
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
