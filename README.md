@@ -116,6 +116,30 @@
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sumit2344">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sumit-pal-9406a72b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://codeforces.com/profile/pal_sumit029">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<a href="mailto:sumitpal24august@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
 ## 🏥 Featured Project
 
 ### Healthcare Management System
@@ -136,23 +160,3 @@ A full-stack healthcare management system designed to simplify and manage hospit
 Frontend  → React.js
 Backend   → Node.js + Express.js
 Database  → MongoDB
-
- ## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sumit2344">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sumit-pal-9406a72b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/pal_sumit029">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-
-  <a href="mailto:sumitpal24august@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
